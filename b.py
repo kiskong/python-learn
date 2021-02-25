@@ -1,4 +1,6 @@
 # 注释
+# doc: https://docs.python.org/zh-cn/3/reference/lexical_analysis.html#other-tokens
+# 见2.1.3章节
 # 这是单行注释，此行内容编译过程会忽略，程序运行时不会产生任何影响
 print('------------------- 输出分割线1 -------------------')
 
